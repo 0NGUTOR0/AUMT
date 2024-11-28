@@ -1,0 +1,18 @@
+{
+  "name": "transportation-site-true",
+  "version": "1.0.0",
+  "main": "bustops.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "express": "^4.21.1",
+    "transportation-site-true": "file:"
+  },
+  "description": ""
+}
